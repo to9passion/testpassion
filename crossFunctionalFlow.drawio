@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T10:13:14.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="VWdKNdDQOqj11c9qJ3lg" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-11T10:25:22.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZiR5Z-DpJaQDIrwi9G6z" version="21.2.9" type="github" pages="3">
   <diagram name="전체" id="3-V0uvV4JS2Wrb7r2gie">
     <mxGraphModel dx="1371" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="단계1" id="k8F9p7gb6LNzGmmIOxA6">
-    <mxGraphModel dx="1613" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Wa8ZouHdESy2sX9L0woo-0" />
         <mxCell id="Wa8ZouHdESy2sX9L0woo-1" parent="Wa8ZouHdESy2sX9L0woo-0" />
@@ -152,10 +152,10 @@
           <mxGeometry x="454" y="20" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LrzXaRTuk-tGboR299Sz-4" value="선배들과 대화하기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
-          <mxGeometry x="454" y="193" width="144.45" height="130" as="geometry" />
+          <mxGeometry x="454" y="520" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LrzXaRTuk-tGboR299Sz-5" value="유학 CLASS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
-          <mxGeometry x="454" y="380" width="144.45" height="130" as="geometry" />
+          <mxGeometry x="464" y="890" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LrzXaRTuk-tGboR299Sz-6" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
           <mxGeometry x="37.22000000000003" y="160" width="110" height="50" as="geometry" />
@@ -173,31 +173,76 @@
           <mxGeometry x="190.00000000000003" y="360" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LrzXaRTuk-tGboR299Sz-11" value="아르고가 처음인가요" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
-          <mxGeometry x="454" y="555" width="144.45" height="130" as="geometry" />
+          <mxGeometry x="440" y="1490" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LrzXaRTuk-tGboR299Sz-12" value="회원가입" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
-          <mxGeometry x="454" y="735" width="144.45" height="130" as="geometry" />
+          <mxGeometry x="464" y="1780" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LrzXaRTuk-tGboR299Sz-13" value="약관동의" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
-          <mxGeometry x="650" y="735" width="144.45" height="130" as="geometry" />
+          <mxGeometry x="660" y="1780" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LrzXaRTuk-tGboR299Sz-14" value="본인인증" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
-          <mxGeometry x="840" y="735" width="144.45" height="130" as="geometry" />
+          <mxGeometry x="850" y="1780" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LrzXaRTuk-tGboR299Sz-15" value="회원정보 입력" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
-          <mxGeometry x="1010" y="735" width="144.45" height="130" as="geometry" />
+          <mxGeometry x="1020" y="1780" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LrzXaRTuk-tGboR299Sz-16" value="가입완료" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
-          <mxGeometry x="1180" y="735" width="144.45" height="130" as="geometry" />
+          <mxGeometry x="1190" y="1780" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LrzXaRTuk-tGboR299Sz-17" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
           <mxGeometry x="190.00000000000003" y="160" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LrzXaRTuk-tGboR299Sz-18" value="선배들의 Live Talk" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
-          <mxGeometry x="660" y="380" width="144.45" height="130" as="geometry" />
+          <mxGeometry x="670" y="890" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-19" value="선배들의 Live Talk" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
-          <mxGeometry x="660" y="550" width="144.45" height="130" as="geometry" />
+        <mxCell id="LrzXaRTuk-tGboR299Sz-19" value="유학 준비 CLASS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="670" y="1060" width="144.45" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-0" value="현지 Living 라이프" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="670" y="1240" width="144.45" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-1" value="아르고 유학원 인증이란?" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="761" y="20" width="144.45" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-2" value="아르고 유학 전문가 상담 받기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="761" y="280" width="144.45" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-3" value="아르고 유학 전문가&lt;br&gt;상담 받기" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="941" y="102" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-4" value="아르고 유학원&lt;br&gt;인증이란?" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="941" y="52" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-5" value="아르고 유학 전문가&lt;br&gt;상담 받기" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="941" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-6" value="아르고 유학원&lt;br&gt;인증이란?" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="941" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;아르고 유학원을&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;선택해야하는 이유&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="608.45" y="51" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-8" value="아르고 유학원&lt;br&gt;인증이란?" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="608.45" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-9" value="아르고 유학 전문가&lt;br&gt;상담 받기" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="608.45" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-10" value="아르고 유학 전문가&lt;br&gt;상담 받기" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="778.22" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-11" value="아르고 유학원&lt;br&gt;인증이란?" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="778.22" y="50" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-12" value="아르고 유학원을&lt;br&gt;선택해야하는 이유" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="471.22" y="50" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;아르고 유학원을&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;선택해야하는 이유&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="941" y="2" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;아르고 유학원을&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;선택해야하는 이유&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="941" y="210" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
