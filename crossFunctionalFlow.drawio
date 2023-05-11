@@ -1,64 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T10:48:00.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="81J4XXd7lQ9xo-ic0-7_" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-11T22:02:09.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0U8giGf7SHqw4b9ZwSXI" version="21.2.9" type="github" pages="3">
   <diagram name="전체" id="3-V0uvV4JS2Wrb7r2gie">
     <mxGraphModel dx="1371" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-1" value="아르고 홈" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-1" value="아르고 홈" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="20" y="130" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-2" value="아르고 유학가기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-2" value="아르고 유학가기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="454" y="20" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-6" value="선배들과 대화하기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-6" value="선배들과 대화하기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="454" y="193" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-7" value="유학 CLASS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-7" value="유학 CLASS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="454" y="380" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-8" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-8" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="37.22000000000003" y="160" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-9" value="아르고 유학원을&lt;br&gt;선택해야하는 이유" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-9" value="아르고 유학원을&lt;br&gt;선택해야하는 이유" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="190.00000000000003" y="210" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-10" value="대화하기&lt;br&gt;서비스 설명" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-10" value="대화하기&lt;br&gt;서비스 설명" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="190.00000000000003" y="260" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-11" value="유학 CLASS&amp;nbsp;&lt;br&gt;서비스 설명" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-11" value="유학 CLASS&amp;nbsp;&lt;br&gt;서비스 설명" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="190.00000000000003" y="310" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-12" value="아르고가&lt;br&gt;처음인가요" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-12" value="아르고가&lt;br&gt;처음인가요" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="190.00000000000003" y="360" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-13" value="아르고가 처음인가요" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-13" value="아르고가 처음인가요" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="454" y="555" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-14" value="회원가입" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-14" value="회원가입" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="454" y="735" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-15" value="약관동의" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-15" value="약관동의" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="650" y="735" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-16" value="본인인증" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-16" value="본인인증" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="840" y="735" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-17" value="회원정보 입력" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-17" value="회원정보 입력" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1010" y="735" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-18" value="가입완료" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-18" value="가입완료" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1180" y="735" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-19" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-19" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="190.00000000000003" y="160" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-27" value="선배들의 Live Talk" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-27" value="선배들의 Live Talk" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="660" y="380" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-28" value="선배들의 Live Talk" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gYBnUSHYEZ3ot8JUsjV5-28" value="선배들의 Live Talk" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="840" y="380" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="V0bI5D7Hod06mWpUKdzE-1" value="선배들의 Live Talk" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="V0bI5D7Hod06mWpUKdzE-1" value="선배들의 Live Talk" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1010" y="380" width="144.45" height="130" as="geometry" />
         </mxCell>
       </root>
