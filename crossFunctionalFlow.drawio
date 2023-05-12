@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T22:02:09.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0U8giGf7SHqw4b9ZwSXI" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-12T03:29:20.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qceZm1zKqR185HXJLcmf" version="21.2.9" type="github" pages="4">
   <diagram name="전체" id="3-V0uvV4JS2Wrb7r2gie">
     <mxGraphModel dx="1371" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,37 +69,37 @@
       <root>
         <mxCell id="Wa8ZouHdESy2sX9L0woo-0" />
         <mxCell id="Wa8ZouHdESy2sX9L0woo-1" parent="Wa8ZouHdESy2sX9L0woo-0" />
-        <mxCell id="qTHVl0VuQHCfZqpuxjHn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.155;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Wa8ZouHdESy2sX9L0woo-1" source="Wa8ZouHdESy2sX9L0woo-2" target="Wa8ZouHdESy2sX9L0woo-12">
+        <mxCell id="qTHVl0VuQHCfZqpuxjHn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.155;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Wa8ZouHdESy2sX9L0woo-1" source="Wa8ZouHdESy2sX9L0woo-2" target="Wa8ZouHdESy2sX9L0woo-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wa8ZouHdESy2sX9L0woo-2" value="아르고 홈" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="Wa8ZouHdESy2sX9L0woo-1">
+        <mxCell id="Wa8ZouHdESy2sX9L0woo-2" value="아르고 홈" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="Wa8ZouHdESy2sX9L0woo-1" vertex="1">
           <mxGeometry x="20" y="130" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Wa8ZouHdESy2sX9L0woo-3" value="아르고 유학가기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="Wa8ZouHdESy2sX9L0woo-1">
+        <mxCell id="Wa8ZouHdESy2sX9L0woo-3" value="아르고 유학가기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="Wa8ZouHdESy2sX9L0woo-1" vertex="1">
           <mxGeometry x="454" y="30" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Wa8ZouHdESy2sX9L0woo-4" value="선배들과 대화하기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="Wa8ZouHdESy2sX9L0woo-1">
+        <mxCell id="Wa8ZouHdESy2sX9L0woo-4" value="선배들과 대화하기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="Wa8ZouHdESy2sX9L0woo-1" vertex="1">
           <mxGeometry x="454" y="191" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Wa8ZouHdESy2sX9L0woo-5" value="유학 CLASS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="Wa8ZouHdESy2sX9L0woo-1">
+        <mxCell id="Wa8ZouHdESy2sX9L0woo-5" value="유학 CLASS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="Wa8ZouHdESy2sX9L0woo-1" vertex="1">
           <mxGeometry x="454" y="358" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Wa8ZouHdESy2sX9L0woo-6" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" vertex="1" parent="Wa8ZouHdESy2sX9L0woo-1">
+        <mxCell id="Wa8ZouHdESy2sX9L0woo-6" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" parent="Wa8ZouHdESy2sX9L0woo-1" vertex="1">
           <mxGeometry x="37.22000000000003" y="160" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qTHVl0VuQHCfZqpuxjHn-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Wa8ZouHdESy2sX9L0woo-1" source="Wa8ZouHdESy2sX9L0woo-7" target="Wa8ZouHdESy2sX9L0woo-3">
+        <mxCell id="qTHVl0VuQHCfZqpuxjHn-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Wa8ZouHdESy2sX9L0woo-1" source="Wa8ZouHdESy2sX9L0woo-7" target="Wa8ZouHdESy2sX9L0woo-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wa8ZouHdESy2sX9L0woo-7" value="아르고 유학원을&lt;br&gt;선택해야하는 이유" style="html=1;whiteSpace=wrap;" vertex="1" parent="Wa8ZouHdESy2sX9L0woo-1">
+        <mxCell id="Wa8ZouHdESy2sX9L0woo-7" value="아르고 유학원을&lt;br&gt;선택해야하는 이유" style="html=1;whiteSpace=wrap;" parent="Wa8ZouHdESy2sX9L0woo-1" vertex="1">
           <mxGeometry x="190.00000000000003" y="210" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_ZDaq7A01DvBCze0Lo7m-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Wa8ZouHdESy2sX9L0woo-1" source="Wa8ZouHdESy2sX9L0woo-8" target="Wa8ZouHdESy2sX9L0woo-4">
+        <mxCell id="_ZDaq7A01DvBCze0Lo7m-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Wa8ZouHdESy2sX9L0woo-1" source="Wa8ZouHdESy2sX9L0woo-8" target="Wa8ZouHdESy2sX9L0woo-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wa8ZouHdESy2sX9L0woo-8" value="대화하기&lt;br&gt;서비스 설명" style="html=1;whiteSpace=wrap;" vertex="1" parent="Wa8ZouHdESy2sX9L0woo-1">
+        <mxCell id="Wa8ZouHdESy2sX9L0woo-8" value="대화하기&lt;br&gt;서비스 설명" style="html=1;whiteSpace=wrap;" parent="Wa8ZouHdESy2sX9L0woo-1" vertex="1">
           <mxGeometry x="190.00000000000003" y="260" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qTHVl0VuQHCfZqpuxjHn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Wa8ZouHdESy2sX9L0woo-1" source="Wa8ZouHdESy2sX9L0woo-9" target="Wa8ZouHdESy2sX9L0woo-5">
+        <mxCell id="qTHVl0VuQHCfZqpuxjHn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Wa8ZouHdESy2sX9L0woo-1" source="Wa8ZouHdESy2sX9L0woo-9" target="Wa8ZouHdESy2sX9L0woo-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="410" y="335" />
@@ -107,130 +107,315 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wa8ZouHdESy2sX9L0woo-9" value="유학 CLASS&amp;nbsp;&lt;br&gt;서비스 설명" style="html=1;whiteSpace=wrap;" vertex="1" parent="Wa8ZouHdESy2sX9L0woo-1">
+        <mxCell id="Wa8ZouHdESy2sX9L0woo-9" value="유학 CLASS&amp;nbsp;&lt;br&gt;서비스 설명" style="html=1;whiteSpace=wrap;" parent="Wa8ZouHdESy2sX9L0woo-1" vertex="1">
           <mxGeometry x="190.00000000000003" y="310" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_ZDaq7A01DvBCze0Lo7m-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Wa8ZouHdESy2sX9L0woo-1" source="Wa8ZouHdESy2sX9L0woo-10" target="Wa8ZouHdESy2sX9L0woo-11">
+        <mxCell id="_ZDaq7A01DvBCze0Lo7m-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Wa8ZouHdESy2sX9L0woo-1" source="Wa8ZouHdESy2sX9L0woo-10" target="Wa8ZouHdESy2sX9L0woo-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wa8ZouHdESy2sX9L0woo-10" value="아르고가&lt;br&gt;처음인가요" style="html=1;whiteSpace=wrap;" vertex="1" parent="Wa8ZouHdESy2sX9L0woo-1">
+        <mxCell id="Wa8ZouHdESy2sX9L0woo-10" value="아르고가&lt;br&gt;처음인가요" style="html=1;whiteSpace=wrap;" parent="Wa8ZouHdESy2sX9L0woo-1" vertex="1">
           <mxGeometry x="190.00000000000003" y="360" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Wa8ZouHdESy2sX9L0woo-11" value="아르고가 처음인가요" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="Wa8ZouHdESy2sX9L0woo-1">
+        <mxCell id="Wa8ZouHdESy2sX9L0woo-11" value="아르고가 처음인가요" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="Wa8ZouHdESy2sX9L0woo-1" vertex="1">
           <mxGeometry x="454" y="519" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Wa8ZouHdESy2sX9L0woo-12" value="회원가입" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="Wa8ZouHdESy2sX9L0woo-1">
+        <mxCell id="Wa8ZouHdESy2sX9L0woo-12" value="회원가입" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="Wa8ZouHdESy2sX9L0woo-1" vertex="1">
           <mxGeometry x="454" y="690" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Wa8ZouHdESy2sX9L0woo-17" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" vertex="1" parent="Wa8ZouHdESy2sX9L0woo-1">
+        <mxCell id="Wa8ZouHdESy2sX9L0woo-17" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" parent="Wa8ZouHdESy2sX9L0woo-1" vertex="1">
           <mxGeometry x="190.00000000000003" y="160" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="단계2" id="5oHEylyFtW5xIYg_M3mH">
+  <diagram name="단계2 아르고 유학가기" id="5oHEylyFtW5xIYg_M3mH">
     <mxGraphModel dx="1371" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LrzXaRTuk-tGboR299Sz-0" />
         <mxCell id="LrzXaRTuk-tGboR299Sz-1" parent="LrzXaRTuk-tGboR299Sz-0" />
-        <mxCell id="LrzXaRTuk-tGboR299Sz-2" value="아르고 홈" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-2" value="아르고 홈" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="20" y="130" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-3" value="아르고 유학가기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-3" value="아르고 유학가기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="454" y="20" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-4" value="선배들과 대화하기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-4" value="선배들과 대화하기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="454" y="520" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-5" value="유학 CLASS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-5" value="유학 CLASS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="464" y="890" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-6" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-6" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="37.22000000000003" y="160" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-7" value="아르고 유학원을&lt;br&gt;선택해야하는 이유" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-7" value="아르고 유학원을&lt;br&gt;선택해야하는 이유" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="190.00000000000003" y="210" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-8" value="대화하기&lt;br&gt;서비스 설명" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-8" value="대화하기&lt;br&gt;서비스 설명" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="190.00000000000003" y="260" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-9" value="유학 CLASS&amp;nbsp;&lt;br&gt;서비스 설명" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-9" value="유학 CLASS&amp;nbsp;&lt;br&gt;서비스 설명" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="190.00000000000003" y="310" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-10" value="아르고가&lt;br&gt;처음인가요" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-10" value="아르고가&lt;br&gt;처음인가요" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="190.00000000000003" y="360" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-11" value="아르고가 처음인가요" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-11" value="아르고가 처음인가요" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="440" y="1490" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-12" value="회원가입" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-12" value="회원가입" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="464" y="1780" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-13" value="약관동의" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-13" value="약관동의" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="660" y="1780" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-14" value="본인인증" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-14" value="본인인증" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="850" y="1780" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-15" value="회원정보 입력" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-15" value="회원정보 입력" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="1020" y="1780" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-16" value="가입완료" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-16" value="가입완료" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="1190" y="1780" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-17" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-17" value="아르고 정체성&lt;br&gt;(인증 플랫폼)" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="190.00000000000003" y="160" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-18" value="선배들의 Live Talk" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-18" value="선배들의 Live Talk" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="670" y="890" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LrzXaRTuk-tGboR299Sz-19" value="유학 준비 CLASS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="LrzXaRTuk-tGboR299Sz-19" value="유학 준비 CLASS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="670" y="1060" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-0" value="현지 Living 라이프" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-0" value="현지 Living 라이프" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="670" y="1240" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-1" value="아르고 유학원 인증이란?" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-1" value="아르고 유학원 인증이란?" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="761" y="20" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-2" value="아르고 유학 전문가 상담 받기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-2" value="아르고 유학 전문가 상담 받기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="761" y="280" width="144.45" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-3" value="아르고 유학 전문가&lt;br&gt;상담 받기" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-3" value="아르고 유학 전문가&lt;br&gt;상담 받기" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="941" y="102" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-4" value="아르고 유학원&lt;br&gt;인증이란?" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-4" value="아르고 유학원&lt;br&gt;인증이란?" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="941" y="52" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-5" value="아르고 유학 전문가&lt;br&gt;상담 받기" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-5" value="아르고 유학 전문가&lt;br&gt;상담 받기" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="941" y="310" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-6" value="아르고 유학원&lt;br&gt;인증이란?" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-6" value="아르고 유학원&lt;br&gt;인증이란?" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="941" y="260" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;아르고 유학원을&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;선택해야하는 이유&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;아르고 유학원을&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;선택해야하는 이유&lt;/span&gt;" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="608.45" y="51" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-8" value="아르고 유학원&lt;br&gt;인증이란?" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-8" value="아르고 유학원&lt;br&gt;인증이란?" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="608.45" y="100" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-9" value="아르고 유학 전문가&lt;br&gt;상담 받기" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-9" value="아르고 유학 전문가&lt;br&gt;상담 받기" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="608.45" y="150" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-10" value="아르고 유학 전문가&lt;br&gt;상담 받기" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-10" value="아르고 유학 전문가&lt;br&gt;상담 받기" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="778.22" y="310" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-11" value="아르고 유학원&lt;br&gt;인증이란?" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-11" value="아르고 유학원&lt;br&gt;인증이란?" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="778.22" y="50" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-12" value="아르고 유학원을&lt;br&gt;선택해야하는 이유" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-12" value="아르고 유학원을&lt;br&gt;선택해야하는 이유" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="471.22" y="50" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;아르고 유학원을&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;선택해야하는 이유&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;아르고 유학원을&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;선택해야하는 이유&lt;/span&gt;" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="941" y="2" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7OfxF3RGvwFUyjlMpDQW-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;아르고 유학원을&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;선택해야하는 이유&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+        <mxCell id="7OfxF3RGvwFUyjlMpDQW-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;아르고 유학원을&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;선택해야하는 이유&lt;/span&gt;" style="html=1;whiteSpace=wrap;" parent="LrzXaRTuk-tGboR299Sz-1" vertex="1">
           <mxGeometry x="941" y="210" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b7gAEWyGOKqVYSB0ab8j-0" value="아르고 유학 전문가 상담 받기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="1140" y="280" width="144.45" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b7gAEWyGOKqVYSB0ab8j-1" value="국가/유학원 선택 후&lt;br&gt;상담 대화하기" style="html=1;whiteSpace=wrap;" vertex="1" parent="LrzXaRTuk-tGboR299Sz-1">
+          <mxGeometry x="1157.22" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9Ntj6FtNJW7VbSAUbXuY" name="페이지-4">
+    <mxGraphModel dx="2198" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r6cNNolFXN3TQDopq-2h-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cognitive_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.barChart;strokeColor=none;strokeColor2=none;strokeColor3=#666666;fillColor2=#008cff;fillColor3=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="420" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.columnChart;strokeColor=none;strokeColor2=none;strokeColor3=#666666;fillColor2=#008cff;fillColor3=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="130" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="430" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-6" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="680" width="600" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-7" value="#" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-8" value="Task" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-9" value="Start" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="60" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-10" value="Effort" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="190" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-11" value="20//10//2014" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="240" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-12" value="27//10//2014" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="450" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-13" value="M" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="240" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-14" value="T" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="270" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-15" value="W" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="300" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-16" value="T" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="330" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-17" value="F" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="360" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-18" value="S" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="390" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-19" value="S" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="420" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-20" value="M" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="450" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-21" value="T" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="480" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-22" value="W" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="510" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-23" value="T" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="540" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-24" value="F" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="570" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-25" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry y="40" width="240" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-26" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="240" y="40" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-27" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="300" y="40" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-28" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="360" y="40" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-29" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="420" y="40" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-30" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="480" y="40" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-31" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="540" y="40" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-32" value="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry y="40" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-33" value="Task 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="20" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-34" value="20//10//2014 8:00 AM" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="60" y="40" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-35" value="40h" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="190" y="40" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-36" value="2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-37" value="Task 2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="20" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-38" value="20//10//2014 8:00 AM" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="60" y="60" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-39" value="40h" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="190" y="60" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-40" value="3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry y="80" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-41" value="Task 3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="20" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-42" value="20//10//2014 8:00 AM" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="60" y="80" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-43" value="40h" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="190" y="80" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-44" value="4" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-45" value="Task 4" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="20" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-46" value="20//10//2014 8:00 AM" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="60" y="100" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-47" value="40h" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="190" y="100" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-48" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;strokeColor=none;fillColor=#aaddff;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="250" y="45" width="130" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-49" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;strokeColor=none;fillColor=#aaddff;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="250" y="65" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-50" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;strokeColor=none;fillColor=#aaddff;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="280" y="85" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-51" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;strokeColor=none;fillColor=#aaddff;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-6">
+          <mxGeometry x="340" y="105" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-52" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.plotChart;strokeColor=none;strokeColor2=#aaaaaa;strokeColor3=#666666;fillColor2=#99aaff,#0022ff,#008cff;" vertex="1" parent="1">
+          <mxGeometry x="38" y="690" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-53" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.gauge;fillColor=#ffffff;strokeColor=#999999;gaugePos=25;scaleColors=#bbddff,#ddeeff,#99ccff;gaugeLabels=,,;needleColor=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="300" y="470" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-54" value="CPU[%]" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-53">
+          <mxGeometry x="25" y="20" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-55" value="0" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;align=left;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-53">
+          <mxGeometry x="20" y="75" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-56" value="100" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.anchor;align=right;fontColor=#666666;" vertex="1" parent="r6cNNolFXN3TQDopq-2h-53">
+          <mxGeometry x="30" y="75" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6cNNolFXN3TQDopq-2h-57" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.bubbleChart;strokeColor=none;strokeColor2=none;strokeColor3=#666666;fillColor2=#008cff;fillColor3=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="44" y="930" width="400" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
