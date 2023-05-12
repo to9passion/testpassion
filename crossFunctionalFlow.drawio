@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T03:50:32.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="or8DE-k9mUNfWN2AZvJL" version="21.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-12T04:06:55.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oK1HkgOlGzhUW_BgpIyC" version="21.2.9" type="github" pages="5">
   <diagram name="전체" id="3-V0uvV4JS2Wrb7r2gie">
     <mxGraphModel dx="1371" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -399,35 +399,41 @@
         <mxCell id="arb2MM_ZHGa4-0k8xirX-7" value="선배들과 대화하기" style="html=1;whiteSpace=wrap;" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
           <mxGeometry x="471.22" y="520" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="arb2MM_ZHGa4-0k8xirX-8" value="선배들과 대화하기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
-          <mxGeometry x="796.55" y="300" width="144.45" height="130" as="geometry" />
+        <mxCell id="arb2MM_ZHGa4-0k8xirX-8" value="AI로 대화 추천 받기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
+          <mxGeometry x="804.4399999999999" y="300" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="arb2MM_ZHGa4-0k8xirX-9" value="AI로 대화 추천받기" style="html=1;whiteSpace=wrap;" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
-          <mxGeometry x="813.77" y="323" width="110" height="50" as="geometry" />
+          <mxGeometry x="821.67" y="323" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="arb2MM_ZHGa4-0k8xirX-10" value="선배들과 대화하기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
-          <mxGeometry x="796.54" y="520" width="144.45" height="130" as="geometry" />
+        <mxCell id="arb2MM_ZHGa4-0k8xirX-10" value="해외 유학 선배 찾기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
+          <mxGeometry x="804.4499999999999" y="520" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="arb2MM_ZHGa4-0k8xirX-11" value="해외 유학 선배 찾기" style="html=1;whiteSpace=wrap;" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
-          <mxGeometry x="813.76" y="543" width="110" height="50" as="geometry" />
+          <mxGeometry x="821.67" y="543" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="arb2MM_ZHGa4-0k8xirX-12" value="선배들과 대화하기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
+        <mxCell id="arb2MM_ZHGa4-0k8xirX-12" value="해외 대학 교직원 찾기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
           <mxGeometry x="804.4499999999999" y="730" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="arb2MM_ZHGa4-0k8xirX-13" value="해외 대학&lt;br&gt;교직원 찾기" style="html=1;whiteSpace=wrap;" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
           <mxGeometry x="821.67" y="753" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="arb2MM_ZHGa4-0k8xirX-14" value="선배들과 대화하기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
+        <mxCell id="arb2MM_ZHGa4-0k8xirX-14" value="유학 자녀를 둔 맘 찾기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
           <mxGeometry x="804.4499999999999" y="930" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="arb2MM_ZHGa4-0k8xirX-15" value="유학 자녀를 둔&lt;br&gt;맘 찾기" style="html=1;whiteSpace=wrap;" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
           <mxGeometry x="821.67" y="953" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="arb2MM_ZHGa4-0k8xirX-16" value="선배들과 대화하기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
+        <mxCell id="arb2MM_ZHGa4-0k8xirX-16" value="현지 생활 마스터 찾기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
           <mxGeometry x="804.4499999999999" y="1150" width="144.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="arb2MM_ZHGa4-0k8xirX-17" value="현지 생활&lt;br&gt;마스터 찾기" style="html=1;whiteSpace=wrap;" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
           <mxGeometry x="821.67" y="1173" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WW0akuIoLFEKmHzfky6L-0" value="해외 유학 선배 찾기" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;fontStyle=1" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
+          <mxGeometry x="1000" y="520" width="144.45" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WW0akuIoLFEKmHzfky6L-1" value="국가" style="html=1;whiteSpace=wrap;" vertex="1" parent="36CojBbjTIjJD-0K8Jyb-1">
+          <mxGeometry x="1017.22" y="543" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
